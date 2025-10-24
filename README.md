@@ -51,7 +51,6 @@
    ![Коммит](https://github.com/Doskaks/8-01_git/blob/main/Commit.jpg)
 
 
-
 ---
 
 ### Задание 2
@@ -64,6 +63,14 @@
 1. Сделайте коммит и пуш.
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
+
+
+### Решение 2
+
+[Коммит](https://github.com/Doskaks/git_hub_test_pablic/commit/5c08d256a9180e34d8b35cfb52328ba75ff5c5a1)
+
+![Коммит](https://github.com/Doskaks/git_hub_test_pablic/commit/5c08d256a9180e34d8b35cfb52328ba75ff5c5a1)
+
 
 ---
 
