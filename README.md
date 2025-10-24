@@ -48,6 +48,8 @@
 
 5. [Коммит](https://github.com/Doskaks/git_hub_test_pablic/commit/52038eb19bbb203c346feb4695d96aef101c5f0d)
 
+   ![Коммит](https://github.com/Doskaks/git_hub_test_pablic/commit/52038eb19bbb203c346feb4695d96aef101c5f0d)
+
 
 
 ---
