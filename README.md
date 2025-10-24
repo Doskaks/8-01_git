@@ -89,8 +89,11 @@
 
 В качестве ответа прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
 
-Ваш граф комитов должен выглядеть аналогично скриншоту:   
+
+### Решение 3
 
 [Граф](https://github.com/Doskaks/git_hub_test_pablic/network)
+
+![Граф](https://github.com/Doskaks/8-01_git/blob/main/graf.jpg)
 
 ---
