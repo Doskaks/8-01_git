@@ -44,7 +44,9 @@
 
 2. [Мой публичный репозитоий](https://github.com/Doskaks/git_hub_test_pablic)
 
-3. 
+3 и 4. [Клон репозитория](https://github.com/Doskaks/8-01_git/blob/main/3%20git_clone.jpg)
+
+5. [Коммит](https://github.com/Doskaks/git_hub_test_pablic/commit/52038eb19bbb203c346feb4695d96aef101c5f0d)
 
 
 
